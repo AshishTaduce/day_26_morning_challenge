@@ -11,5 +11,6 @@ void main() {
       }
     }
     expect(bubbleSort(list), equals([1,2,4,5,8]));
-  });
+  },
+  );
 }
